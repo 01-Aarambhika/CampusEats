@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="4j7m6S4gCHp2CeHAimW0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3xeloyi2OeCAjyP52HcP-15" edge="1" parent="1" source="3xeloyi2OeCAjyP52HcP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3xeloyi2OeCAjyP52HcP-22" connectable="0" parent="3xeloyi2OeCAjyP52HcP-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="checkitem()" vertex="1">
+          <mxGeometry relative="1" x="0.1" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3xeloyi2OeCAjyP52HcP-18" edge="1" parent="1" source="3xeloyi2OeCAjyP52HcP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3xeloyi2OeCAjyP52HcP-23" connectable="0" parent="3xeloyi2OeCAjyP52HcP-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="charge()" vertex="1">
+          <mxGeometry relative="1" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3xeloyi2OeCAjyP52HcP-21" edge="1" parent="1" source="3xeloyi2OeCAjyP52HcP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3xeloyi2OeCAjyP52HcP-24" connectable="0" parent="3xeloyi2OeCAjyP52HcP-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="assignRider()" vertex="1">
+          <mxGeometry relative="1" x="-0.2286" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3xeloyi2OeCAjyP52HcP-29" edge="1" parent="1" source="3xeloyi2OeCAjyP52HcP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3xeloyi2OeCAjyP52HcP-30" connectable="0" parent="3xeloyi2OeCAjyP52HcP-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="SendNotification()" vertex="1">
+          <mxGeometry relative="1" x="0.125" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object label="Orders Serviceowns&lt;div&gt;&lt;br&gt;&lt;div&gt;&amp;nbsp;carts, orders, status&lt;/div&gt;&lt;/div&gt;" id="3xeloyi2OeCAjyP52HcP-1">
+          <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="90" width="200" x="280" y="150" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="3xeloyi2OeCAjyP52HcP-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;div&gt;Accounts Service&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;users, addresses, login&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="190" x="560" as="geometry" />
+        </mxCell>
+        <mxCell id="3xeloyi2OeCAjyP52HcP-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;div&gt;Catalogue Service&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;restaurants, menus, prices&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="200" x="280" as="geometry" />
+        </mxCell>
+        <mxCell id="3xeloyi2OeCAjyP52HcP-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Payments Service&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;transactions, refunds&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="200" x="560" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3xeloyi2OeCAjyP52HcP-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Delivery Service&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;riders, assignments&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="200" x="280" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="3xeloyi2OeCAjyP52HcP-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Notification Service&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;message logs&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="200" y="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
